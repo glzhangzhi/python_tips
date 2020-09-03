@@ -353,6 +353,7 @@ print(ar2,type(ar2))
 ```
 
 # 与标量的运算
+
 ```python
 ar = np.arange(6).reshape(2,3)
 print(ar + 10)   # 加法
